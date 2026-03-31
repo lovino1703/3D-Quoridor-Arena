@@ -362,6 +362,7 @@
 "Assets/Scripts/Game/TileClick.cs"
 "Assets/Scripts/GameSettings.cs"
 "Assets/Scripts/MainMenuController.cs"
+"Assets/Scripts/Manager/AIManager.cs"
 "Assets/Scripts/Manager/BoardManager.cs"
 "Assets/Scripts/Manager/GameManager.cs"
 "Assets/Scripts/Manager/PawnManager.cs"

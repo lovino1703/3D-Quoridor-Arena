@@ -261,6 +261,23 @@ public class PawnManager : MonoBehaviour
 
         ResetBoard();
         HighlightMoves(currentPawn);
+
+        // --- GỌI AI NẾU ĐẾN LƯỢT PLAYER 2 ---
+        if (GameSettings.isVsAI && !player1Turn)
+        {
+            // Tạm thời khóa không cho người chơi bấm lung tung khi máy đang nghĩ
+            GameManager.instance.currentMode = GameManager.GameMode.GameOver;
+
+            if (AIManager.instance != null)
+            {
+                AIManager.instance.TriggerAITurn();
+            }
+        }
+        // Nếu chuyển lại về lượt Player 1 thì mở khóa điều khiển
+        else if (GameSettings.isVsAI && player1Turn)
+        {
+            GameManager.instance.currentMode = GameManager.GameMode.Move;
+        }
     }
 
     public void UseAbility()
@@ -295,5 +312,11 @@ public class PawnManager : MonoBehaviour
             GameManager.instance.currentMode = GameManager.GameMode.BreakWall;
             Debug.Log("Kích hoạt Break Wall: Hãy dùng chuột click vào bức tường muốn phá!");
         }
+    }
+
+    // Hàm hỗ trợ cho AI ép bật trạng thái Dash
+    public void set_isDashing(bool state)
+    {
+        isDashing = state;
     }
 }

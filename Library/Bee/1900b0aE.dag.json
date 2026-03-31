@@ -369,7 +369,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -395,7 +395,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 45164,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2428,7 +2428,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 52766,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2454,7 +2454,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 92280,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -3108,7 +3108,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 100420,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3134,7 +3134,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 151590,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3799,7 +3799,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 159358,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3825,7 +3825,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 195970,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4396,7 +4396,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 204443,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4422,7 +4422,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 238504,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4946,7 +4946,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 247080,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -4972,7 +4972,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 283938,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5507,7 +5507,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 292508,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5533,7 +5533,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 373802,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6507,7 +6507,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 381898,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6533,7 +6533,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 418369,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -7055,7 +7055,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 426376,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7081,7 +7081,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 461137,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7596,7 +7596,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 469715,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7622,7 +7622,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 505297,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -8139,7 +8139,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 513915,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8165,7 +8165,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 548290,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8671,7 +8671,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 556874,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8697,7 +8697,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 594482,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9243,7 +9243,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 602769,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9269,7 +9269,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 641455,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -9829,7 +9829,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 649744,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9855,7 +9855,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 684150,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10365,7 +10365,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 692701,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10391,7 +10391,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 779133,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11306,7 +11306,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 787440,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11332,7 +11332,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 824211,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11859,7 +11859,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 832228,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -11885,7 +11885,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 866389,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12413,7 +12413,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 875036,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.Entities.UnityAdditionalFile.txt"
@@ -12439,7 +12439,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 909020,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.Entities.rsp2"
@@ -12947,7 +12947,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 917678,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12973,7 +12973,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 955834,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -13570,7 +13570,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 964180,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13596,7 +13596,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1002390,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -14168,7 +14168,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1011020,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -14194,7 +14194,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1069064,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14990,7 +14990,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1077700,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -15016,7 +15016,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1168433,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -16010,7 +16010,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1177086,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -16036,7 +16036,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1258928,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16929,7 +16929,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1267331,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16955,7 +16955,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1321623,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -17674,7 +17674,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1330460,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17700,7 +17700,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1366308,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -18226,7 +18226,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1374812,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -18252,7 +18252,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1410176,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -18820,7 +18820,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1419216,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18846,7 +18846,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1461385,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -19436,7 +19436,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1470415,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19462,7 +19462,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1504732,
       "PayloadLength": 39,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D Quoridor",
+      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Unity\\3D-Quoridor",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -20007,7 +20007,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1513839,
       "PayloadLength": 26,
-      "PayloadDebugContentSnippet": "F:\\Unity\\3D Quoridor Arena",
+      "PayloadDebugContentSnippet": "F:\\Unity\\3D-Quoridor-Arena",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -20019,7 +20019,7 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 1513951,
-      "PayloadLength": 35817,
+      "PayloadLength": 35856,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -20031,7 +20031,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1549855,
+      "PayloadOffset": 1549894,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -20285,6 +20285,7 @@
         "Assets/Scripts/Game/TileClick.cs",
         "Assets/Scripts/GameSettings.cs",
         "Assets/Scripts/MainMenuController.cs",
+        "Assets/Scripts/Manager/AIManager.cs",
         "Assets/Scripts/Manager/BoardManager.cs",
         "Assets/Scripts/Manager/GameManager.cs",
         "Assets/Scripts/Manager/PawnManager.cs",
@@ -20564,7 +20565,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1549951,
+      "PayloadOffset": 1549990,
       "PayloadLength": 9366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21678,7 +21679,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"F:\\Unity\\3D Quoridor Arena\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"F:\\Unity\\3D Quoridor Arena\\Library\\ScriptAssemblies\" -s=\"F:\\Unity\\3D Quoridor Arena\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"F:\\Unity\\3D Quoridor Arena\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"F:\\Unity\\3D Quoridor Arena\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.16f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\ScriptAssemblies\" -s=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"F:\\Unity\\3D-Quoridor-Arena\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21967,6 +21968,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "F:/Unity/3D Quoridor Arena/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "F:/Unity/3D-Quoridor-Arena/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
