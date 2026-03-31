@@ -1,0 +1,49 @@
+# General
+*.DS_Store
+*.swp
+
+# Cocos2d-x specific
+/.vscode
+/proj.wp8-xaml
+/proj.mac
+/cmake-build-debug
+/win32-build
+
+# CMake files
+CMakeLists.txt.user
+/CMakeFiles/
+/CMakeCache.txt
+
+# Xcode
+*.xcworkspace
+*.xcodeproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+
+# Android Studio
+*.iml
+.idea
+.gradle
+/local.properties
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcproj
+*.suo
+*.user
+*.sln.docstates
+
+# Compiled files
+/bin/
+/build/
+/libs/
+/temp/
+
+# Visual Studio specific
+/win32-build
+/.vs
